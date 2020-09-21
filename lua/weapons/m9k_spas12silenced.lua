@@ -13,6 +13,7 @@ SWEP.ViewModelFOV = 60
 SWEP.Primary.Sound = "weapons/silencedspas/m3-2.wav"
 SWEP.Primary.RPM = 70
 SWEP.Primary.ClipSize = 8
+SWEP.Primary.DefaultClip = 24
 
 SWEP.Primary.KickUp = 5
 SWEP.Primary.KickDown = 2

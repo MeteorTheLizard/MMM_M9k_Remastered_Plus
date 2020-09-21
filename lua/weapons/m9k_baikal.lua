@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_double_barrel_shotgun.mdl"
 SWEP.Primary.Sound = "BaikalLovesToFire"
 SWEP.Primary.RPM = 150
 SWEP.Primary.ClipSize = 5
+SWEP.Primary.DefaultClip = 15
 
 SWEP.Primary.KickUp = 5
 SWEP.Primary.KickDown = 2.5

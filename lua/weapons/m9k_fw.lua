@@ -15,6 +15,7 @@ SWEP.WorldModel = "models/weapons/w_hk_sl8.mdl"
 SWEP.Primary.Sound = "weapons/fw/galil-1.wav"
 SWEP.Primary.RPM = 250
 SWEP.Primary.ClipSize = 15
+SWEP.Primary.DefaultClip = 45
 
 SWEP.Primary.KickUp = 2.7
 SWEP.Primary.KickDown = 1.5

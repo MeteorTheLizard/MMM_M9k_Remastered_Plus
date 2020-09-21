@@ -15,6 +15,7 @@ SWEP.WorldModel = "models/weapons/w_taurus_raging_bull.mdl"
 SWEP.Primary.Sound = "weapons/mr/deagle-1.wav"
 SWEP.Primary.RPM = 150
 SWEP.Primary.ClipSize = 6
+SWEP.Primary.DefaultClip = 18
 
 SWEP.Primary.KickUp = 8
 SWEP.Primary.KickDown = 3.7

@@ -15,6 +15,7 @@ SWEP.WorldModel = "models/weapons/w_ak47_m9k.mdl"
 SWEP.Primary.Sound = "weapons/vz58/AK47-1.wav"
 SWEP.Primary.RPM = 450
 SWEP.Primary.ClipSize = 30
+SWEP.Primary.DefaultClip = 90
 
 SWEP.Primary.KickUp = 3
 SWEP.Primary.KickDown = 1.7

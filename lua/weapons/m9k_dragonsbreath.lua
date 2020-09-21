@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_double_barrel_shotgun.mdl"
 SWEP.Primary.Sound = "DragonFire"
 SWEP.Primary.RPM = 60
 SWEP.Primary.ClipSize = 6
+SWEP.Primary.DefaultClip = 18
 
 SWEP.Primary.KickUp = 7
 SWEP.Primary.KickDown = 5

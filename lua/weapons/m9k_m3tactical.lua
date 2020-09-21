@@ -12,6 +12,7 @@ SWEP.WorldModel = "models/weapons/w_benelli_m3.mdl"
 SWEP.Primary.Sound = "weapons/m3/m3-1.wav"
 SWEP.Primary.RPM = 60
 SWEP.Primary.ClipSize = 8
+SWEP.Primary.DefaultClip = 24
 
 SWEP.Primary.KickUp = 6
 SWEP.Primary.KickDown = 3

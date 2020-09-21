@@ -12,6 +12,7 @@ SWEP.WorldModel = "models/weapons/w_benelli_m3.mdl"
 SWEP.Primary.Sound = "KSG.Fire"
 SWEP.Primary.RPM = 45
 SWEP.Primary.ClipSize = 8
+SWEP.Primary.DefaultClip = 24
 
 SWEP.Primary.KickUp = 9
 SWEP.Primary.KickDown = 5

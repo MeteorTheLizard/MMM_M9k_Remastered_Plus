@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_hk_g36c.mdl"
 SWEP.Primary.Sound = "weapons/asg36/aug-1.wav"
 SWEP.Primary.RPM = 400
 SWEP.Primary.ClipSize = 30
+SWEP.Primary.DefaultClip = 90
 
 SWEP.Primary.KickUp = 1.1
 SWEP.Primary.KickDown = 1.1

@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_pist_fokkususp.mdl"
 SWEP.Primary.Sound = "weapons/FNP45/FNP45-1.wav"
 SWEP.Primary.RPM = 400
 SWEP.Primary.ClipSize = 8
+SWEP.Primary.DefaultClip = 24
 
 SWEP.Primary.KickUp = 2.2
 SWEP.Primary.KickDown = 1.3

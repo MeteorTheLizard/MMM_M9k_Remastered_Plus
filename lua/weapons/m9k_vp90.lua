@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_fn_p90.mdl"
 SWEP.Primary.Sound = "weapons/vp70/VP70 Fire.wav"
 SWEP.Primary.RPM = 350
 SWEP.Primary.ClipSize = 12
+SWEP.Primary.DefaultClip = 36
 
 SWEP.Primary.KickUp = 0.9
 SWEP.Primary.KickDown = 0.6

@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_ithaca_m37.mdl"
 SWEP.Primary.Sound = "KSG.Fire"
 SWEP.Primary.RPM = 70
 SWEP.Primary.ClipSize = 12
+SWEP.Primary.DefaultClip = 36
 
 SWEP.Primary.KickUp = 5
 SWEP.Primary.KickDown = 2

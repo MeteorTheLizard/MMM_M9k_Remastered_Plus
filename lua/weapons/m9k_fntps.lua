@@ -14,6 +14,7 @@ SWEP.WorldModel = "models/weapons/w_ithaca_m37.mdl"
 SWEP.Primary.Sound = "weapons/tps/m3-1.wav"
 SWEP.Primary.RPM = 55
 SWEP.Primary.ClipSize = 8
+SWEP.Primary.DefaultClip = 24
 
 SWEP.Primary.KickUp = 22
 SWEP.Primary.KickDown = 3
